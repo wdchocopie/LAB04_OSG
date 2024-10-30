@@ -56,6 +56,9 @@ Vmware + kali linux
 
 ![image](https://github.com/user-attachments/assets/d465cd51-fa93-48d9-8745-2a9146b2a8c9)
 
+![image](https://github.com/user-attachments/assets/d1f9759d-ca1d-49a9-9a98-96fa3eda3088)
+
+
 * Q9
 
 ![image](https://github.com/user-attachments/assets/f4bbac16-f6ec-4912-a730-051f63588eef)
