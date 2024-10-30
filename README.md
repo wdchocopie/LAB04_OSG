@@ -13,7 +13,9 @@ Vmware + kali linux
 ---
 # Answer
 * Q1
+
 ![image](https://github.com/user-attachments/assets/cbad46d8-d97e-49dc-8871-830e81abdb64)
+
 * Q2
 -   **INPUT Chain**:
     -   This chain handles incoming traffic destined for the local system.
@@ -28,27 +30,34 @@ Vmware + kali linux
     -   If the system is configured as a router, it will use the FORWARD chain to determine whether to allow or block packets that are just passing through.
  
 * Q3
+
 ![image](https://github.com/user-attachments/assets/8fe6ae47-a567-4cea-bfda-68ec1b2d4e09)
 
 * Q4
+
 ![image](https://github.com/user-attachments/assets/530a2c63-8fb7-424c-85c9-79850cda8875)
 
 ![image](https://github.com/user-attachments/assets/a046eafd-d3bb-43fc-842d-30b2e5c21057)
 
 
 * Q5
+
 ![image](https://github.com/user-attachments/assets/46d2416b-cda8-4f46-af78-1bc4a282953e)
 
 * Q6
+
 ![image](https://github.com/user-attachments/assets/eceaffa9-3482-4033-8af7-85f6595fe417)
 
 * Q7
+
 ![image](https://github.com/user-attachments/assets/00cb9d9e-61f5-486b-9f15-72bbebadcade)
 
 * Q8
+
 ![image](https://github.com/user-attachments/assets/d465cd51-fa93-48d9-8745-2a9146b2a8c9)
 
 * Q9
+
 ![image](https://github.com/user-attachments/assets/f4bbac16-f6ec-4912-a730-051f63588eef)
 
 ![image](https://github.com/user-attachments/assets/e6997542-9720-4f3a-b999-9448c024f827)
@@ -56,6 +65,7 @@ Vmware + kali linux
 ![image](https://github.com/user-attachments/assets/1ed86733-a7b5-4971-aa06-85cb4a74b08f)
 
 * Q10
+
 ![image](https://github.com/user-attachments/assets/5ac790fd-bae6-4834-af5b-53465e663fe5)
 
 
